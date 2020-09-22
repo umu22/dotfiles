@@ -1,0 +1,5 @@
+2020/09/22-11:19:31.844 1e4f Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-18:26:22.559 8a9 Level-0 table #5: started
+2020/09/22-18:26:22.616 8a9 Level-0 table #5: 870361 bytes OK
+2020/09/22-18:26:22.658 8a9 Delete type=0 #3
+2020/09/22-18:26:22.660 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

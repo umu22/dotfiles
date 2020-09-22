@@ -1,0 +1,5 @@
+2020/09/22-11:44:20.934 2135 Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-11:44:55.526 8a9 Level-0 table #5: started
+2020/09/22-11:44:55.560 8a9 Level-0 table #5: 4893 bytes OK
+2020/09/22-11:44:55.595 8a9 Delete type=0 #3
+2020/09/22-11:44:55.596 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

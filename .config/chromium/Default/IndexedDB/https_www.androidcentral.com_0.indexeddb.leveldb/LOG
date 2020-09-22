@@ -1,0 +1,5 @@
+2020/09/21-14:28:24.641 56d Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_www.androidcentral.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/21-14:28:28.054 861 Level-0 table #5: started
+2020/09/21-14:28:28.089 861 Level-0 table #5: 354 bytes OK
+2020/09/21-14:28:28.145 861 Delete type=0 #3
+2020/09/21-14:28:28.145 861 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

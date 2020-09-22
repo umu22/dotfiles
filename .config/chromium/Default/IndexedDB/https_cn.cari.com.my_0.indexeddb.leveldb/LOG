@@ -1,0 +1,5 @@
+2020/09/21-17:39:49.679 1111 Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_cn.cari.com.my_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/21-17:41:10.370 861 Level-0 table #5: started
+2020/09/21-17:41:10.403 861 Level-0 table #5: 1386 bytes OK
+2020/09/21-17:41:10.435 861 Delete type=0 #3
+2020/09/21-17:41:10.435 861 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

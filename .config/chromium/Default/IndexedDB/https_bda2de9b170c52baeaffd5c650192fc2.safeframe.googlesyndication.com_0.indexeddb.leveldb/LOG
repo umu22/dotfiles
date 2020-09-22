@@ -1,0 +1,8 @@
+2020/09/22-10:39:10.075 72b Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_bda2de9b170c52baeaffd5c650192fc2.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-10:39:10.076 72b Recovering log #7
+2020/09/22-10:39:10.076 72b Reusing old log /home/notous/.config/chromium/Default/IndexedDB/https_bda2de9b170c52baeaffd5c650192fc2.safeframe.googlesyndication.com_0.indexeddb.leveldb/000007.log 
+2020/09/22-10:39:15.424 8a9 Level-0 table #11: started
+2020/09/22-10:39:15.424 8a9 Level-0 table #11: 0 bytes OK
+2020/09/22-10:39:15.510 8a9 Delete type=0 #7
+2020/09/22-10:39:15.510 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/22-10:39:15.510 8a9 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

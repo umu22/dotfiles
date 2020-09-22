@@ -1,0 +1,5 @@
+2020/09/22-11:15:24.266 1e49 Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_www.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-11:15:45.736 8a9 Level-0 table #5: started
+2020/09/22-11:15:45.802 8a9 Level-0 table #5: 4525 bytes OK
+2020/09/22-11:15:45.914 8a9 Delete type=0 #3
+2020/09/22-11:15:45.914 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

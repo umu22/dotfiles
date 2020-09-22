@@ -1,0 +1,25 @@
+2020/09/22-13:06:25.637 3eaa Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_shopee.com.my_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-13:06:25.637 3eaa Recovering log #13
+2020/09/22-13:06:25.637 3eaa Reusing old log /home/notous/.config/chromium/Default/IndexedDB/https_shopee.com.my_0.indexeddb.leveldb/000013.log 
+2020/09/22-13:06:25.926 8a9 Level-0 table #18: started
+2020/09/22-13:06:25.959 8a9 Level-0 table #18: 578 bytes OK
+2020/09/22-13:06:26.012 8a9 Delete type=0 #13
+2020/09/22-13:06:26.012 8a9 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/22-13:06:33.572 8a9 Compacting 1@1 + 1@2 files
+2020/09/22-13:06:33.621 8a9 Generated table #19@1: 114 keys, 4022 bytes
+2020/09/22-13:06:33.622 8a9 Compacted 1@1 + 1@2 files => 4022 bytes
+2020/09/22-13:06:33.673 8a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/22-13:06:33.673 8a9 Delete type=2 #15
+2020/09/22-13:06:33.673 8a9 Delete type=2 #18
+2020/09/22-13:11:15.935 8a9 Level-0 table #21: started
+2020/09/22-13:11:15.975 8a9 Level-0 table #21: 29785 bytes OK
+2020/09/22-13:11:16.015 8a9 Delete type=0 #17
+2020/09/22-13:11:16.015 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/22-13:11:16.016 8a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 1909 : 1
+2020/09/22-13:11:16.016 8a9 Compacting 1@1 + 1@2 files
+2020/09/22-13:11:16.053 8a9 Generated table #22@1: 124 keys, 3310 bytes
+2020/09/22-13:11:16.053 8a9 Compacted 1@1 + 1@2 files => 3310 bytes
+2020/09/22-13:11:16.091 8a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/22-13:11:16.092 8a9 Delete type=2 #19
+2020/09/22-13:11:16.092 8a9 Delete type=2 #21
+2020/09/22-13:11:16.093 8a9 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 1909 : 1 .. (end); will stop at (end)

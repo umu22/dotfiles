@@ -1,0 +1,21 @@
+2020/09/21-23:33:26.839 5d8 Reusing MANIFEST /home/notous/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/21-23:33:26.840 5d8 Recovering log #42
+2020/09/21-23:33:26.840 5d8 Reusing old log /home/notous/.config/google-chrome/Default/Local Storage/leveldb/000042.log 
+2020/09/21-23:34:46.793 6f3 Level-0 table #45: started
+2020/09/21-23:34:46.828 6f3 Level-0 table #45: 15489 bytes OK
+2020/09/21-23:34:46.862 6f3 Delete type=0 #42
+2020/09/21-23:49:39.374 6f3 Level-0 table #47: started
+2020/09/21-23:49:39.422 6f3 Level-0 table #47: 93045 bytes OK
+2020/09/21-23:49:39.455 6f3 Delete type=0 #44
+2020/09/21-23:49:39.456 6f3 Compacting 4@0 + 1@1 files
+2020/09/21-23:49:39.523 6f3 Generated table #48@0: 237 keys, 118923 bytes
+2020/09/21-23:49:39.523 6f3 Compacted 4@0 + 1@1 files => 118923 bytes
+2020/09/21-23:49:39.554 6f3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/09/21-23:49:39.555 6f3 Delete type=2 #47
+2020/09/21-23:49:39.555 6f3 Delete type=2 #37
+2020/09/21-23:49:39.555 6f3 Delete type=2 #45
+2020/09/21-23:49:39.555 6f3 Delete type=2 #41
+2020/09/21-23:49:39.555 6f3 Delete type=2 #39
+2020/09/21-23:54:24.859 6f3 Level-0 table #50: started
+2020/09/21-23:54:24.902 6f3 Level-0 table #50: 84184 bytes OK
+2020/09/21-23:54:24.935 6f3 Delete type=0 #46

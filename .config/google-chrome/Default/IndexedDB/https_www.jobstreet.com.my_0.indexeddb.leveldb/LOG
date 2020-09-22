@@ -1,0 +1,5 @@
+2020/09/21-12:02:37.142 366 Reusing MANIFEST /home/notous/.config/google-chrome/Default/IndexedDB/https_www.jobstreet.com.my_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/21-12:02:45.828 549 Level-0 table #5: started
+2020/09/21-12:02:45.889 549 Level-0 table #5: 2211 bytes OK
+2020/09/21-12:02:45.945 549 Delete type=0 #3
+2020/09/21-12:02:45.945 549 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,26 @@
+2020/09/22-13:30:26.547 3eaa Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_shopee.com.my_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-13:30:26.547 3eaa Recovering log #20
+2020/09/22-13:30:26.547 3eaa Reusing old log /home/notous/.config/chromium/Default/IndexedDB/https_shopee.com.my_0.indexeddb.leveldb/000020.log 
+2020/09/22-13:30:27.120 8a9 Level-0 table #25: started
+2020/09/22-13:30:27.154 8a9 Level-0 table #25: 582 bytes OK
+2020/09/22-13:30:27.187 8a9 Delete type=0 #20
+2020/09/22-13:30:27.187 8a9 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/09/22-13:30:31.041 8a9 Level-0 table #27: started
+2020/09/22-13:30:31.082 8a9 Level-0 table #27: 3880 bytes OK
+2020/09/22-13:30:31.118 8a9 Delete type=0 #24
+2020/09/22-13:30:31.118 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 2476 : 1
+2020/09/22-13:30:31.119 8a9 Compacting 1@0 + 1@1 files
+2020/09/22-13:30:31.160 8a9 Generated table #28@0: 45 keys, 1717 bytes
+2020/09/22-13:30:31.160 8a9 Compacted 1@0 + 1@1 files => 1717 bytes
+2020/09/22-13:30:31.195 8a9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/22-13:30:31.195 8a9 Delete type=2 #27
+2020/09/22-13:30:31.195 8a9 Delete type=2 #25
+2020/09/22-13:30:31.196 8a9 Manual compaction at level-0 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 2476 : 1 .. (end); will stop at (end)
+2020/09/22-13:30:31.197 8a9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 2488 : 1
+2020/09/22-13:30:31.197 8a9 Compacting 1@1 + 1@2 files
+2020/09/22-13:30:31.227 8a9 Generated table #29@1: 127 keys, 3366 bytes
+2020/09/22-13:30:31.227 8a9 Compacted 1@1 + 1@2 files => 3366 bytes
+2020/09/22-13:30:31.261 8a9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/22-13:30:31.262 8a9 Delete type=2 #28
+2020/09/22-13:30:31.262 8a9 Delete type=2 #22
+2020/09/22-13:30:31.262 8a9 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x000\x008\x003\x003\x002\x009\x002\x008\x007\x005\x002\x00:\x00w\x00e\x00b\x00:\x008\x00b\x000\x002\x004\x002\x006\x005\x009\x00b\x006\x00e\x003\x000\x001\x000\x008\x002\x008\x004\x003\x005' @ 2488 : 1 .. (end); will stop at (end)

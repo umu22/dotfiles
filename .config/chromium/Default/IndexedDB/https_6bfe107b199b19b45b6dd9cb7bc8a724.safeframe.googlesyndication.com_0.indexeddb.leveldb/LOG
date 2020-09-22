@@ -1,0 +1,5 @@
+2020/09/22-11:56:43.784 23cf Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_6bfe107b199b19b45b6dd9cb7bc8a724.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-11:56:46.544 8a9 Level-0 table #5: started
+2020/09/22-11:56:46.583 8a9 Level-0 table #5: 439 bytes OK
+2020/09/22-11:56:46.650 8a9 Delete type=0 #3
+2020/09/22-11:56:46.650 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

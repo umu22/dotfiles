@@ -1,0 +1,12 @@
+2020/09/21-14:08:02.737 398 Reusing MANIFEST /home/notous/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/09/21-14:08:02.771 398 Recovering log #4
+2020/09/21-14:08:02.866 398 Reusing old log /home/notous/.config/chromium/Default/Sync Data/LevelDB/000004.log 
+2020/09/21-14:25:22.609 678 Level-0 table #8: started
+2020/09/21-14:25:22.652 678 Level-0 table #8: 111613 bytes OK
+2020/09/21-14:25:22.688 678 Delete type=0 #4
+2020/09/21-14:35:40.372 678 Level-0 table #10: started
+2020/09/21-14:35:40.405 678 Level-0 table #10: 113274 bytes OK
+2020/09/21-14:35:40.439 678 Delete type=0 #7
+2020/09/21-15:01:53.363 678 Level-0 table #12: started
+2020/09/21-15:01:53.438 678 Level-0 table #12: 117843 bytes OK
+2020/09/21-15:01:53.531 678 Delete type=0 #9

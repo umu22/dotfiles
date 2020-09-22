@@ -1,0 +1,5 @@
+2020/09/22-20:26:03.170 61d9 Reusing MANIFEST /home/notous/.config/chromium/Default/IndexedDB/https_www.baeldung.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-20:26:06.155 8a9 Level-0 table #5: started
+2020/09/22-20:26:06.189 8a9 Level-0 table #5: 363 bytes OK
+2020/09/22-20:26:06.245 8a9 Delete type=0 #3
+2020/09/22-20:26:06.245 8a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

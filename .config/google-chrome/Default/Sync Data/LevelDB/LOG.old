@@ -1,0 +1,6 @@
+2020/09/21-23:33:26.852 5d8 Reusing MANIFEST /home/notous/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/09/21-23:33:26.852 5d8 Recovering log #25
+2020/09/21-23:33:26.853 5d8 Reusing old log /home/notous/.config/google-chrome/Default/Sync Data/LevelDB/000025.log 
+2020/09/21-23:48:02.669 a6a Level-0 table #29: started
+2020/09/21-23:48:02.743 a6a Level-0 table #29: 110418 bytes OK
+2020/09/21-23:48:02.846 a6a Delete type=0 #25

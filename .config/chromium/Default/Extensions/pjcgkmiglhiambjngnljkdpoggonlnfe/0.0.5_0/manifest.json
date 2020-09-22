@@ -1,0 +1,28 @@
+{
+   "author": "nondanee",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "content_scripts": [ {
+      "js": [ "script.js" ],
+      "matches": [ "*://music.163.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/logo128.png",
+      "16": "images/logo16.png",
+      "48": "images/logo48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAquM+cgmSQ/F0vZKHeFNxXT0jajAOS8FyH25k8keNtXjSpN/VdiOCzFILuO0S+aLclZXEDNjd7Gg6vpp5jO2naECuMoQIzDmsZZvi5Gp/dYpQDSwIWWfvreddefLwvRcn7SOLzlW/pSVr+hLfCjGiAf7GyO/y9la3x/ZSJHYtc4RPAOWKk01+w3njnOz2ntS2m3WFK6ZEcK316l61X1CwsCbhGxPfzRGo9CVIYL2zxSJr3cs+PP7Kk3+PTpnTuIHybDBJaKFQzacnhiq0+dZhV/i0S2QLOcG8DdL/q6ASmG3vPZaNDEfI+r+9SmRI0ptaVhDXV+AYxvAU+Ak+IO3f8wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "*://music.163.com/", "*://*.music.126.net/", "storage", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.5",
+   "web_accessible_resources": [ "inject.js" ]
+}
